@@ -1,0 +1,10 @@
+{
+"news":
+  {
+    "icon":"http:/google.com/icon.jpg",
+    "title":"This is News Title",
+    "shortdesc":"Short description",
+    "iframedto":"http:/jdsojj.com/jsjs",
+    "mainimg":"This is the Main Image"
+},  
+}
