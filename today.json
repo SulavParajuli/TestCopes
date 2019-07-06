@@ -1,7 +1,10 @@
 {
 "today":
-{
-"day":"Sunday",
-"date":"27 April, 2018"
+  [
+    {
+      "day":"Sunday",
+      "date":"27 April, 2018"
+    }
+  ]
 }
 
