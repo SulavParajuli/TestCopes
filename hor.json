@@ -1,16 +1,64 @@
 {
-
 "horoscope":
-
   [
-
   {
-
     "header":"Aries",
     "image":"http://www.thedailyhoroscope.org/wp-content/uploads/2016/09/aries.png",
+    "exercpt":"You will achieve things today, not by the sleight of your hand but by your communication skills, says Ganesha. Your eloquence shall win many hearts. The stars suggest monetary benefits, but you need to guard against injury and minor ailments." },
+     {
+    "header":"Taurus",
+    "image":"http://www.thedailyhoroscope.org/wp-content/uploads/2016/09/aries.png",
+    "exercpt":"You are likely to confront a turning point in relationships today, foresees Ganesha. Because you are in need of some compassion and support, you will feel the need to spend time with friends and relatives. Your beloved or better half may bring a change in mood by helping you shed your negative frame of mind, says Ganesha." },
+     {
+    "header":"Gemini",
+    "image":"http://www.thedailyhoroscope.org/wp-content/uploads/2016/09/aries.png",
     "exercpt":"Finances are a big problem for you today \u2014 but it\u2019s mostly in your head!You need to shake it off and get some assistance from someone who\u2019s calm and knows what they\u2019re talking about."
-
+  },
+     {
+    "header":"Cancer",
+    "image":"http://www.thedailyhoroscope.org/wp-content/uploads/2016/09/aries.png",
+    "exercpt":"Finances are a big problem for you today \u2014 but it\u2019s mostly in your head!You need to shake it off and get some assistance from someone who\u2019s calm and knows what they\u2019re talking about."
+  },
+     {
+    "header":"Leo",
+    "image":"http://www.thedailyhoroscope.org/wp-content/uploads/2016/09/aries.png",
+    "exercpt":"Finances are a big problem for you today \u2014 but it\u2019s mostly in your head!You need to shake it off and get some assistance from someone who\u2019s calm and knows what they\u2019re talking about."
+  },
+     {
+    "header":"Virgo",
+    "image":"http://www.thedailyhoroscope.org/wp-content/uploads/2016/09/aries.png",
+    "exercpt":"Finances are a big problem for you today \u2014 but it\u2019s mostly in your head!You need to shake it off and get some assistance from someone who\u2019s calm and knows what they\u2019re talking about."
+  },
+     {
+    "header":"Libra",
+    "image":"http://www.thedailyhoroscope.org/wp-content/uploads/2016/09/aries.png",
+    "exercpt":"Finances are a big problem for you today \u2014 but it\u2019s mostly in your head!You need to shake it off and get some assistance from someone who\u2019s calm and knows what they\u2019re talking about."
+  },
+     {
+    "header":"Scorpio",
+    "image":"http://www.thedailyhoroscope.org/wp-content/uploads/2016/09/aries.png",
+    "exercpt":"Finances are a big problem for you today \u2014 but it\u2019s mostly in your head!You need to shake it off and get some assistance from someone who\u2019s calm and knows what they\u2019re talking about."
+  },
+     {
+    "header":"Sagittarius",
+    "image":"http://www.thedailyhoroscope.org/wp-content/uploads/2016/09/aries.png",
+    "exercpt":"Finances are a big problem for you today \u2014 but it\u2019s mostly in your head!You need to shake it off and get some assistance from someone who\u2019s calm and knows what they\u2019re talking about."
+  },
+     {
+    "header":"Capricon",
+    "image":"http://www.thedailyhoroscope.org/wp-content/uploads/2016/09/aries.png",
+    "exercpt":"Finances are a big problem for you today \u2014 but it\u2019s mostly in your head!You need to shake it off and get some assistance from someone who\u2019s calm and knows what they\u2019re talking about."
+  },
+     {
+    "header":"Aquarius",
+    "image":"http://www.thedailyhoroscope.org/wp-content/uploads/2016/09/aries.png",
+    "exercpt":"Finances are a big problem for you today \u2014 but it\u2019s mostly in your head!You need to shake it off and get some assistance from someone who\u2019s calm and knows what they\u2019re talking about."
+  },
+     {
+    "header":"Pisces",
+    "image":"http://www.thedailyhoroscope.org/wp-content/uploads/2016/09/aries.png",
+    "exercpt":"Finances are a big problem for you today \u2014 but it\u2019s mostly in your head!You need to shake it off and get some assistance from someone who\u2019s calm and knows what they\u2019re talking about."
   }
+    
     ]
-
 }
