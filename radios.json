@@ -1,14 +1,24 @@
 {
   "radios":[
     {
-      "header":"Radio Nepal",
+      "header":"Nepali Online Radio",
       "url":"http://www.radionepal.gov.np:40100/stream",
-      "image":"https://www.bing.com/th?id=OIP.s9Dr6J-JEH1xgod9-BZK-gAAAA&w=174&h=174&c=7&o=5&dpr=1.2&pid=1.7"
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2019/04/24-nepali-online-radio.jpg"
     },
     {
-      "header":"Radio Nepal",
-      "url":"http://www.radionepal.gov.np:40100/stream",
-      "image":"https://www.bing.com/th?id=OIP.s9Dr6J-JEH1xgod9-BZK-gAAAA&w=174&h=174&c=7&o=5&dpr=1.2&pid=1.7"
+      "header":"3 Angels Community Radio",
+      "url":"http://live.itechnepal.com:7554/stream",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2018/02/3-Angels-Community-Radio.jpg"
+    },
+    {
+      "header":"AOne FM",
+      "url":"http://148.66.135.69:9336/;",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2019/05/a-one-fm-99.jpg"
+    },
+    {
+      "header":"Aagan FM",
+      "url":"http://live.itech.host:8274/stream",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2018/02/Aagan-FM.jpg"
     }
   ]
 }
