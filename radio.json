@@ -1,8 +1,9 @@
 {
   "radios":[
     {
-      "name":"Radio Nepal",
-      "url":"http://www.radionepal.gov.np:40100/stream"
+      "header":"Radio Nepal",
+      "url":"http://www.radionepal.gov.np:40100/stream",
+      "exc":"Hello"
     }
   ]
 }
