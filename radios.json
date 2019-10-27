@@ -6,6 +6,67 @@
       "image":"https://www.liveonlineradio.net/wp-content/uploads/2019/04/24-nepali-online-radio.jpg"
     },
     {
+      "header":"Radio Kantipur",
+      "url":"http://broadcast.radiokantipur.com:7248/stream",
+      "image":"https://jcss-cdn.ekantipur.com/kantipur-radio/images/kantipurradio-logo.png"
+    },
+     {
+      "header":"BBC Nepal radio",
+      "url":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-nepla_backup",
+      "image":"https://upload.wikimedia.org/wikipedia/en/7/7f/BBC_Nepali_Service_Logo.jpg"
+    },
+    {
+      "header":"Aarambha FM",
+      "url":"http://192.190.84.25:9982/;",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2017/09/Air-Voice-Radio.jpg"
+    },
+    {
+      "header":"Air Voice Radio",
+      "url":"http://s1.voscast.com:9544/;stream1506592398571/1",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2017/09/Air-Voice-Radio.jpg"
+    },
+    {
+      "header":"All Free Nepali Geet",
+      "url":"http://192.190.84.25:9956/;",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2014/10/All-Free-Nepali-Geet.jpg"
+    },
+       {
+      "header":"Apostle FM 102.6",
+      "url":"http://streaming.hamropatro.com:8176/;",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2016/02/Radio-Apostle-102.6.jpg"
+    },
+    {
+      "header":"Arena Online Radio",
+      "url":"http://s42.myradiostream.com:29804/;listen.mp3",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2018/01/Arena-Online-Radio.jpg"
+    },
+    {
+      "header":"Asian Himalaya Music School",
+      "url":"http://streaming.softnep.net:8219/;",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2016/06/Asian-Himalaya-Music-School.jpg"
+    },
+    {
+      "header":"Audio 106.3 MHZ",
+      "url":"http://stream.zenolive.com/2w81t82wx3duv",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2011/06/Audio-106.3-MHZ.jpg"
+    },
+    {
+      "header":"Barahathawa FM",
+      "url":"http://162.244.80.118:4386/;stream.mp3",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2018/04/Barahathawa-FM-1.jpg"
+    },
+    {
+      "header":"Bardiya Online Radio",
+      "url":"http://bardiyaonline.com/wp-content/uploads/2017/10/BO-audio-1.mp3",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2017/04/Bardiya-Online-Radio.jpg"
+    },
+    {
+      "header":"Barsaat FM 107.5",
+      "url":"http://live.itechnepal.com:7029/stream",
+      "image":"https://www.liveonlineradio.net/wp-content/uploads/2016/05/Barsaat-Fm-1.jpg"
+    },
+     
+    {
       "header":"3 Angels Community Radio",
       "url":"http://live.itechnepal.com:7554/stream",
       "image":"https://www.liveonlineradio.net/wp-content/uploads/2018/02/3-Angels-Community-Radio.jpg"
