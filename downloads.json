@@ -12,5 +12,19 @@
 "content":"This is the assignment of 2018/08/07",
 "link":"www.youtube.com"
 }
+],
+"news":[
+{
+"id":"1",
+"title":"Assignment Science I21",
+"content":"This is the assignment of 2018/08/08 and",
+"imageUrl":"https://www.mindtools.com/media/Responsive-Images/Articles/Creativity_Tools/GI_501295459_AlexSava_2x1.jpg"
+},
+{
+"id":"2",
+"title":"Assignment Science II",
+"content":"This is the assignment of 2018/08/07",
+"imageUrl":"www.youtube.com"
+}
 ]
 }
