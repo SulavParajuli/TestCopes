@@ -2,18 +2,18 @@
 "datas":[
 {
 "id":"1",
-"title":"Assignment Science I21",
-"content":"This is the assignment of 2018/08/08 and",
+"title":"Science Homeworks by Om Sir",
+"content":"This is the assignment of 2018/08/08 and you have to submit tomorrow.",
 "link":"https://www.facebook.com/"
 },{
 "id":"1",
-"title":"Assignment Science I21",
-"content":"This is the assignment of 2018/08/08 and",
+"title":"Assignment Science GM Sir",
+"content":"This is the assignment of 2018/08/09.",
 "link":"https://www.facebook.com/"
 },{
 "id":"1",
-"title":"Assignment Science I21",
-"content":"This is the assignment of 2018/08/08 and",
+"title":"Science Homeworks by Gari Sir",
+"content":"This is the assignment of 2018/08/20.",
 "link":"https://www.facebook.com/"
 },{
 "id":"1",
@@ -31,15 +31,21 @@
 "news":[
 {
 "id":"1",
-"title":"Assignment Science I21",
-"content":"This is the assignment of 2018/08/08 and",
+"title":"Stock futures rise as coronavirus cases stabilize in some areas",
+"content":"The Dow Jones Industrial Average is rising by 3.6 percent, or over 700 points.President Trump, during the coronavirus task force briefing, noted some areas saw a stabilization of cases. The number of worldwide coronavirus cases now numbers 1.2 million as of Sunday afternoon with fatalities at 68,148.U.S. crude traded down 4.5 percent, trimming early losses of 6 percent on reports OPEC is said to have postponed its Monday emergency meeting, pushed out to mid-April.In European markets, London's FTSE added 2.1 percent, Germany's DAX jumped 4.4 percent and France's CAC rose 3.6 percent. with American oil executives Friday, promising to support the industry amid a collapse in oil prices partly due to a drop off in demand related to the coronavirus and also due to a price war between Russia and Saudi Arabia.",
 "imageUrl":"https://www.mindtools.com/media/Responsive-Images/Articles/Creativity_Tools/GI_501295459_AlexSava_2x1.jpg"
 },
 {
 "id":"2",
 "title":"Assignment Science II",
-"content":"This is the assignment of 2018/08/07",
-"imageUrl":"www.youtube.com"
+"content":"The Dow Jones Industrial Average is rising by 3.6 percent, or over 700 points.President Trump, during the coronavirus task force briefing, noted some areas saw a stabilization of cases.",
+"imageUrl":"https://hurd.house.gov/sites/hurd.house.gov/files/featured_image/BreakingNews.jpeg"
+},
+ {
+"id":"2",
+"title":"Assignment Science II",
+"content":"The Dow Jones Industrial Average is rising by 3.6 percent, or over 700 points.President Trump, during the coronavirus task force briefing, noted some areas saw a stabilization of cases.",
+"imageUrl":"https://hurd.house.gov/sites/hurd.house.gov/files/featured_image/BreakingNews.jpeg"
 }
 ],
 "events":[
@@ -47,15 +53,15 @@
 "date":"8",
 "month":"September",
 "day":"Friday",
-"title":"School Closed",
-"content":"Yes its true"
+"title":"School is Closed",
+"content":"The Dow Jones Industrial Average is rising by 3.6 percent, or over 700 points.President Trump, during the coronavirus task force briefing, noted some areas saw a stabilization of cases."
 },
 {
 "date":"9",
 "month":"September",
 "day":"Saturday",
-"title":"School open",
-"content":"No its true"
+"title":"School is open",
+"content":"Due to corona We will call others and teach you."
 }
 ]
 }
