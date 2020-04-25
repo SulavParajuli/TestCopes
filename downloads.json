@@ -31,6 +31,26 @@
       "link": "www.youtube.com"
     }
   ],
+  "notices": [
+    {
+      "id": "1",
+      "title": "Notice Title",
+      "content": "tomorrow is holiday.",
+      "type": "teacher"
+    },
+    {
+      "id": "1",
+      "title": "Notice Title2",
+      "content": "tomorrow is holiday.",
+      "type": "student"
+    },
+    {
+      "id": "1",
+      "title": "Notice Title3",
+      "content": "tomorrow is holiday.",
+      "type": "general"
+    }
+  ],
   "news": [
     {
       "id": "1",
