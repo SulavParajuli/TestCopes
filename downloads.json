@@ -86,19 +86,5 @@
       "title": "School is open",
       "content": "Due to corona We will call others and teach you."
     }
-  ],
-  "notices": [
-    {
-      "title": "Sample Notice",
-      "content": "School is closed on sunday."
-    },
-     {
-      "title": "Sample Notice",
-      "content": "School is closed on sunday."
-    },
-     {
-      "title": "Sample Notice",
-      "content": "School is closed on sunday."
-    }
   ]
 }
