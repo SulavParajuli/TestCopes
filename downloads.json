@@ -86,5 +86,22 @@
       "title": "School is open",
       "content": "Due to corona We will call others and teach you."
     }
-  ]
+  ],
+  "gallery":[
+    {
+    "id":"1",
+    "title":"First Image",
+    "link":"http://www.holifestival.org/images/holi-image-4-big.jpg"
+    },
+       {
+    "id":"1",
+    "title":"Second Image",
+    "link":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Faust_bei_der_Arbeit.JPG/1920px-Faust_bei_der_Arbeit.JPG"
+    },
+       {
+    "id":"1",
+    "title":"Third Image",
+    "link":"https://cdn.pixabay.com/photo/2016/06/18/17/42/image-1465348_960_720.jpg"
+    }
+    ]
 }
