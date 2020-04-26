@@ -73,12 +73,38 @@
       "pm":"30",
       "remarks":"PASS"
     },
-      {
-    "subject":"Nepali",
-    "marks":"56",
+    "reportstatics": [
+    {
+    "id":"1",
+    "name":"1st term",
      "fm":"100",
       "pm":"30",
-      "remarks":"Fail"
+    "obtained":"70",
+      "remarks":"PASS"
+    },
+    {
+    "id":"1",
+    "name":"2nd term",
+     "fm":"100",
+      "pm":"30",
+    "obtained":"40",
+      "remarks":"PASS"
+    },
+    {
+    "id":"1",
+    "name":"3rd term",
+     "fm":"100",
+      "pm":"30",
+    "obtained":"60",
+      "remarks":"PASS"
+    },
+    {
+    "id":"1",
+    "name":"4th term",
+     "fm":"100",
+      "pm":"30",
+    "obtained":"90",
+      "remarks":"PASS"
     }
   ],
   
