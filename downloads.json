@@ -51,6 +51,30 @@
       "type": "general"
     }
   ],
+  "resultcard": [
+    {
+    "subject":"Nepali",
+    "marks":"56",
+     "fm":"100",
+      "pm":"30",
+      "remarks":"PASS"
+    },
+      {
+    "subject":"English",
+    "marks":"56",
+     "fm":"100",
+      "pm":"30",
+      "remarks":"PASS"
+    },
+      {
+    "subject":"Nepali",
+    "marks":"56",
+     "fm":"100",
+      "pm":"30",
+      "remarks":"Fail"
+    }
+  ],
+  
   "news": [
     {
       "id": "1",
