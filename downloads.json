@@ -35,15 +35,15 @@
   "videos": [
     {
       "id": "1",
-      "title": "Notice Title",
-      "content": "tomorrow is holiday.",
+      "title": "This is a video from VideoCDN",
+      "content": "Simple bodybuildings.",
       "link": "http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4"
     },
     {
       "id": "1",
-      "title": "Notice Title2",
-      "content": "tomorrow is holiday.",
-      "link": "https://www.youtube.com/embed/fXvCdY7iMuI"
+      "title": "This is a video from VideoCDN and COZZY",
+      "content": "Sim[le.",
+      "link": "http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4"
     }
   ]
   ,
@@ -68,6 +68,13 @@
     }
   ],
   "resultcard": [
+    {
+    "subject":"Computer",
+    "marks":"98",
+     "fm":"100",
+      "pm":"30",
+      "remarks":"PASS"
+    },
     {
     "subject":"Maths",
     "marks":"100",
