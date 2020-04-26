@@ -30,7 +30,23 @@
       "content": "This is the assignment of 2018/08/07",
       "link": "www.youtube.com"
     }
-  ],
+  ]
+  ,
+  "videos": [
+    {
+      "id": "1",
+      "title": "Notice Title",
+      "content": "tomorrow is holiday.",
+      "link": "https://www.youtube.com/embed/fXvCdY7iMuI"
+    },
+    {
+      "id": "1",
+      "title": "Notice Title2",
+      "content": "tomorrow is holiday.",
+      "link": "https://www.youtube.com/embed/fXvCdY7iMuI"
+    }
+  ]
+  ,
   "notices": [
     {
       "id": "1",
