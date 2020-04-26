@@ -53,6 +53,13 @@
   ],
   "resultcard": [
     {
+    "subject":"Maths",
+    "marks":"100",
+     "fm":"100",
+      "pm":"30",
+      "remarks":"PASS"
+    },
+    {
     "subject":"Nepali",
     "marks":"56",
      "fm":"100",
