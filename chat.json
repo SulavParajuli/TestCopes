@@ -9,6 +9,31 @@
 "id":"1",
 "sent":"1",
 "message":"Hello"
+},
+{
+"id":"1",
+"sent":"1",
+"message":"We have your message received. What do you want to ask us?"
+},
+{
+"id":"1",
+"sent":"0",
+"message":"Just a bit about your college. Is facilities of swimming pool available."
+},
+{
+"id":"1",
+"sent":"0",
+"message":"Hah?"
+},
+{
+"id":"1",
+"sent":"1",
+"message":"Np! are you here for reading or swimming!"
+},
+{
+"id":"1",
+"sent":"0",
+"message":"Oh! I shall choose another school then 😂 oh"
 }
 ]
 }
